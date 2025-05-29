@@ -1,3 +1,5 @@
+-include .env
+
 all : install build
 
 install :; forge soldeer install
